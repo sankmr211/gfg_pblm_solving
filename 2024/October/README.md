@@ -14,6 +14,7 @@ October 2024
 | 12-10-2024 | Two Smallests in Every Subarray   |  <a href="https://www.geeksforgeeks.org/problems/maximum-sum-of-smallest-and-second-smallest-in-an-array/1" target="_blank">Problem</a>           | [Code](12_10_2024.js) |
 | 13-10-2024 | Delete Alternate Nodes   |  <a href="https://www.geeksforgeeks.org/problems/pair-sum--120604/1" target="_blank">Problem</a>           | [Code](13_10_2024.js) |
 | 14-10-2024 | Count Linked List Nodes   |  <a href="https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/1" target="_blank">Problem</a>           | [Code](14_10_2024.js) |
+| 17-10-2024 |Split Linked List Alternatingly   | <a href="https://www.geeksforgeeks.org/problems/split-singly-linked-list-alternatingly/1" target="_blank">Problem</a>             | [Code](17_10_2024.js) |
 | 19-10-2024 | Nearest multiple of 10   | <a href="https://www.geeksforgeeks.org/problems/nearest-multiple-of-102437/1" target="_blank">Problem</a>             | [Code](19_10_2024.js) |
 
 
