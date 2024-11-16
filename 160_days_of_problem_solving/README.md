@@ -1,15 +1,14 @@
 
-# GeeksforGeeks Problem Solving
+# GeeksforGeeks - GfG 160 - 160 Days of Problem Solving
 
-October 2024
 
-## Problem List
+## Problem List 
 
 # Arrays
 
 | S.NO       | Problem Name                | Solution File                           |
 |------------|-----------------------------|-----------------------------------------|
-| 1 | Second Largest   | [Code](\Arrays\second_largest.js) |
+| 1 | Second Largest   | [Code](Arrays/second_largest.js) |
 
 
 
