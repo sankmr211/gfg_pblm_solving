@@ -4,14 +4,18 @@
 
 ## Problem List 
 
-# Arrays
+# 1. Arrays
 
 | S.NO       | Problem Name                | Solution File                           |
 |------------|-----------------------------|-----------------------------------------|
-| 1 | Second Largest   | [Code](Arrays/second_largest.js) |
-| 2 | Move All Zeroes to End   | [Code](Arrays/02_move_all_zeroes_to_end.js) |
-| 3 | Reverse an Array   | [Code](Arrays/03_reverse_an_array.js) |
-| 4 |  Rotate Array   | [Code](Arrays/04_rotate_array.js) |
+| 1 | Second Largest   | [Code](Arrays/01_Day.js) |
+| 2 | Move All Zeroes to End   | [Code](Arrays/02_Day.js) |
+| 3 | Reverse an Array   | [Code](Arrays/03_Day.js) |
+| 4 | Rotate Array   | [Code](Arrays/04_Day.js) |
+| 5 | Next Permutation   | [Code](Arrays/05_Day.js) |
+| 6 | Majority Element II   | [Code](Arrays/06_Day.js) |
+| 7 | Stock Buy and Sell – Multiple Transaction Allowed   | [Code](Arrays/07_Day.js) |
+| 8 | Stock Buy and Sell – Multiple Transaction Allowed   | [Code](Arrays/08_Day.js) |
 
 
 
