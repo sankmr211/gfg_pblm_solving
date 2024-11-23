@@ -4,7 +4,7 @@
 
 ## Problem List 
 
-# 1. Arrays
+# 1. Arrays: Lay the Foundation (Days 1–13)
 
 | S.NO       | Problem Name                | Solution File                           |
 |------------|-----------------------------|-----------------------------------------|
@@ -15,7 +15,8 @@
 | 5 | Next Permutation   | [Code](Arrays/05_Day.js) |
 | 6 | Majority Element II   | [Code](Arrays/06_Day.js) |
 | 7 | Stock Buy and Sell – Multiple Transaction Allowed   | [Code](Arrays/07_Day.js) |
-| 8 | Stock Buy and Sell – Multiple Transaction Allowed   | [Code](Arrays/08_Day.js) |
+| 8 | Stock Buy and Sell – Max one Transaction Allowed   | [Code](Arrays/08_Day.js) |
+| 9 | Minimize the Heights II   | [Code](Arrays/09_Day.js) |
 
 
 

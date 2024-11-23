@@ -1,6 +1,6 @@
 
-// Name: Stock Buy and Sell – Multiple Transaction Allowed
-// Link: https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/stock-buy-and-sell2615
+// Name: Stock Buy and Sell – Max one Transaction Allowed
+// Link: https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/buy-stock-2
 
 class Solution {
     maximumProfit(prices) {
