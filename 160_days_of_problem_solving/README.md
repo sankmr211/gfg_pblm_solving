@@ -17,6 +17,7 @@
 | 7 | Stock Buy and Sell – Multiple Transaction Allowed   | [Code](Arrays/07_Day.js) |
 | 8 | Stock Buy and Sell – Max one Transaction Allowed   | [Code](Arrays/08_Day.js) |
 | 9 | Minimize the Heights II   | [Code](Arrays/09_Day.js) |
+| 10 | Kadane's Algorithm   | [Code](Arrays/10_Day.js) |
 
 
 
