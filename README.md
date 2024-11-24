@@ -5,6 +5,8 @@
 
 [October 2024](2024/October)
 
+[November 2024](2024/November)
+
 ## GfG 160 - 160 Days of Problem Solving [2024]
 
 [GfG 160](160_days_of_problem_solving)

@@ -1,8 +1,6 @@
 
 # GeeksforGeeks Problem Solving
 
-October 2024
-
 ## Problem List - October 2024
 
 | Date       | Problem Name                | Link                                                                                      | Solution File                           |
