@@ -18,7 +18,7 @@
 | 8 | Stock Buy and Sell – Max one Transaction Allowed   | [Code](Arrays/08_Day.js) |
 | 9 | Minimize the Heights II   | [Code](Arrays/09_Day.js) |
 | 10 | Kadane's Algorithm   | [Code](Arrays/10_Day.js) |
-| 11 | Second Largest   | [Code](Arrays/11_Day.js) |
+| 11 | Maximum Product Subarray   | [Code](Arrays/11_Day.js) |
 | 12 | Max Circular Subarray Sum   | [Code](Arrays/12_Day.js) |
 
 

@@ -1,6 +1,6 @@
 
-// Name: Second Largest
-// Link: https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/second-largest3735
+// Name: Maximum Product Subarray
+// Link: https://www.geeksforgeeks.org/problems/maximum-product-subarray3604/1
 
 class Solution {
     maxProduct(arr) {
