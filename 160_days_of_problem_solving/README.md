@@ -20,6 +20,8 @@
 | 10 | Kadane's Algorithm   | [Code](Arrays/10_Day.js) |
 | 11 | Maximum Product Subarray   | [Code](Arrays/11_Day.js) |
 | 12 | Max Circular Subarray Sum   | [Code](Arrays/12_Day.js) |
+| 13 | Smallest Positive Missing Number   | [Code](Arrays/13_Day.js) |
+
 
 
 
