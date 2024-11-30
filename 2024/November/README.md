@@ -1,7 +1,7 @@
 
 # GeeksforGeeks Problem Solving
 
-## Problem List - November 2024
+## Problem Lists - November 2024
 
 | Date       | Problem Name                | Link                                                                                      | Solution File                           |
 |------------|------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------------|

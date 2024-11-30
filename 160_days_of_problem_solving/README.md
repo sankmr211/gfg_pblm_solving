@@ -2,7 +2,7 @@
 # GeeksforGeeks - GfG 160 - 160 Days of Problem Solving
 
 
-## Problem List 
+## Problem Lists 
 
 # 1. Arrays: Lay the Foundation (Days 1–13)
 
@@ -23,7 +23,12 @@
 | 13 | Smallest Positive Missing Number   | [Code](Arrays/13_Day.js) |
 
 
+# 2. Strings: Master Text Processing (Days 14–20)
 
+| S.NO       | Problem Name                | Solution File                           |
+|------------|-----------------------------|-----------------------------------------|
+| 14 | Implement Atoi   | [Code](String/14_day.js) |
+| 15 | Add Binary Strings   | [Code](String/15_day.js) |
 
 ## 🚀 About Me
 I'm a full stack developer...

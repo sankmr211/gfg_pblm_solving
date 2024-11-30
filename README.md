@@ -1,7 +1,7 @@
 
 # GeeksforGeeks Problem Solving
 
-## Problem List - Problem of the Day
+## Problem Lists - Problem of the Day
 
 [October 2024](2024/October)
 
