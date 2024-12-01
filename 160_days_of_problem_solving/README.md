@@ -29,6 +29,8 @@
 |------------|-----------------------------|-----------------------------------------|
 | 14 | Implement Atoi   | [Code](String/14_day.js) |
 | 15 | Add Binary Strings   | [Code](String/15_day.js) |
+| 16 | Anagram   | [Code](String/16_day.js) |
+| 17 | Non Repeating Character   | [Code](String/17_day.js) |
 
 ## 🚀 About Me
 I'm a full stack developer...
