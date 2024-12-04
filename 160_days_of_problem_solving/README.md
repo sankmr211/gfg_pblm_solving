@@ -31,6 +31,9 @@
 | 15 | Add Binary Strings   | [Code](String/15_day.js) |
 | 16 | Anagram   | [Code](String/16_day.js) |
 | 17 | Non Repeating Character   | [Code](String/17_day.js) |
+| 18 | Search Pattern (KMP-Algorithm)   | [Code](String/18_day.js) |
+| 19 | Min Chars to Add for Palindrome   | [Code](String/19_day.js) |
+| 20 | Strings Rotations of Each Other   | [Code](String/20_day.js) |
 
 ## 🚀 About Me
 I'm a full stack developer...
