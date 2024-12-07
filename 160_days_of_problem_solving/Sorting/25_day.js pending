@@ -1,0 +1,12 @@
+
+// Name: 
+// Link: 
+
+class Solution {
+
+}
+
+let obj = new Solution();
+const citations = [];
+let ans = obj
+console.log(ans);

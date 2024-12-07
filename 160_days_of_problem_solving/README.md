@@ -4,6 +4,10 @@
 
 ## Problem Lists 
 
+## Detailed Syllabus
+
+Document: [Here](Detailed_Syllabus.pdf)
+
 # 1. Arrays: Lay the Foundation (Days 1–13)
 
 | S.NO       | Problem Name                | Solution File                           |
@@ -34,6 +38,18 @@
 | 18 | Search Pattern (KMP-Algorithm)   | [Code](String/18_day.js) |
 | 19 | Min Chars to Add for Palindrome   | [Code](String/19_day.js) |
 | 20 | Strings Rotations of Each Other   | [Code](String/20_day.js) |
+
+# 3. Sorting: Organize Data Efficiently (Days 21–27)
+
+| S.NO       | Problem Name                | Solution File                           |
+|------------|-----------------------------|-----------------------------------------|
+| 21 | Sort 0s, 1s and 2s   | [Code](Sorting/21_day.js) |
+| 22 | Find H-Index   | [Code](Sorting/22_day.js) |
+| 23 |    | [Code](Sorting/23_day.js) |
+| 24 |    | [Code](Sorting/24_day.js) |
+| 25 |    | [Code](Sorting/25_day.js) |
+| 26 |    | [Code](Sorting/26_day.js) |
+| 27 |    | [Code](Sorting/27_day.js) |
 
 ## 🚀 About Me
 I'm a full stack developer...
