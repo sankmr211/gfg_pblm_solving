@@ -45,7 +45,7 @@ Document: [Here](Detailed_Syllabus.pdf)
 |------------|-----------------------------|-----------------------------------------|
 | 21 | Sort 0s, 1s and 2s   | [Code](Sorting/21_day.js) |
 | 22 | Find H-Index   | [Code](Sorting/22_day.js) |
-| 23 |    | [Code](Sorting/23_day.js) |
+| 23 | Count Inversions   | [Code](Sorting/23_day.js) |
 | 24 |    | [Code](Sorting/24_day.js) |
 | 25 |    | [Code](Sorting/25_day.js) |
 | 26 |    | [Code](Sorting/26_day.js) |
