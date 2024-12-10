@@ -26,11 +26,14 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 12 | Max Circular Subarray Sum   | [Code](Arrays/12_Day.js) |
 | 13 | Smallest Positive Missing Number   | [Code](Arrays/13_Day.js) |
 
-### Bonus Problem Lists
+<!-- ### Bonus Problem Lists
 
 | S.NO       | Problem Name                | Solution File                           |
 |------------|-----------------------------|-----------------------------------------|
+| 1 |    | [Code](Arrays/BNS_01.js) |
 | 2 | Repetitive Addition Of Digits   | [Code](Arrays/BNS_02.js) |
+| 3 |    | [Code](Arrays/BNS_03.js) |
+| 4 |    | [Code](Arrays/BNS_04.js) | -->
 
 
 
@@ -46,6 +49,15 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 19 | Min Chars to Add for Palindrome   | [Code](String/19_day.js) |
 | 20 | Strings Rotations of Each Other   | [Code](String/20_day.js) |
 
+<!-- ### Bonus Problem Lists
+
+| S.NO       | Problem Name                | Solution File                           |
+|------------|-----------------------------|-----------------------------------------|
+| 1 |    | [Code](String/BNS_01.js) |
+| 2 |    | [Code](String/BNS_02.js) |
+| 3 |    | [Code](String/BNS_03.js) |
+| 4 |    | [Code](String/BNS_04.js) | -->
+
 # 3. Sorting: Organize Data Efficiently (Days 21–27)
 
 | S.NO       | Problem Name                | Solution File                           |
@@ -57,6 +69,8 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 25 | Insert Interval   | [Code](Sorting/25_day.js) |
 | 26 |    | [Code](Sorting/26_day.js) |
 | 27 |    | [Code](Sorting/27_day.js) |
+
+
 
 <!-- # 4. Searching: Find What You Need Fast (Days 28–35)
 
