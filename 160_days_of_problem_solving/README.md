@@ -88,18 +88,18 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 3 |    | [Code](String/BNS_03.js) |
 | 4 |    | [Code](String/BNS_04.js) | -->
 
-<!-- # 4. Searching: Find What You Need Fast (Days 28–35)
+# 4. Searching: Find What You Need Fast (Days 28–35)
 
 | S.NO       | Problem Name                | Solution File                           |
 |------------|-----------------------------|-----------------------------------------|
-| 28 |   | [Code](Searching/28_day.js) |
+| 28 | Number of occurrence  | [Code](Searching/28_day.js) |
 | 29 |   | [Code](Searching/29_day.js) |
 | 30 |   | [Code](Searching/30_day.js) |
 | 31 |   | [Code](Searching/31_day.js) |
 | 32 |   | [Code](Searching/32_day.js) |
 | 33 |   | [Code](Searching/33_day.js) |
 | 34 |   | [Code](Searching/34_day.js) |
-| 35 |   | [Code](Searching/35_day.js) | -->
+| 35 |   | [Code](Searching/35_day.js) |
 
 
 
