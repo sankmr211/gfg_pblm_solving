@@ -93,7 +93,7 @@ Document: [Here](Detailed_Syllabus.pdf)
 | S.NO       | Problem Name                | Solution File                           |
 |------------|-----------------------------|-----------------------------------------|
 | 28 | Number of occurrence  | [Code](Searching/28_day.js) |
-| 29 |   | [Code](Searching/29_day.js) |
+| 29 | Sorted and Rotated Minimum  | [Code](Searching/29_day.js) |
 | 30 |   | [Code](Searching/30_day.js) |
 | 31 |   | [Code](Searching/31_day.js) |
 | 32 |   | [Code](Searching/32_day.js) |
