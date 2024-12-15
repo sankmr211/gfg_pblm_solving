@@ -95,7 +95,7 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 28 | Number of occurrence  | [Code](Searching/28_day.js) |
 | 29 | Sorted and Rotated Minimum  | [Code](Searching/29_day.js) |
 | 30 | Search in Rotated Sorted Array  | [Code](Searching/30_day.js) |
-| 31 |   | [Code](Searching/31_day.js) |
+| 31 | Peak element  | [Code](Searching/31_day.js) |
 | 32 |   | [Code](Searching/32_day.js) |
 | 33 |   | [Code](Searching/33_day.js) |
 | 34 |   | [Code](Searching/34_day.js) |
