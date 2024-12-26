@@ -113,11 +113,23 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 36 | Spirally traversing a matrix  | [Code](05_Matrix/36_day.js) |
 | 37 | Rotate by 90 degree  | [Code](05_Matrix/37_day.js) |
 | 38 | Search in a Row-Column sorted matrix  | [Code](05_Matrix/38_day.js) |
-| 39 | [To Be Added]   | [Code](05_Matrix/39_day.js) |
-| 40 | [To Be Added]   | [Code](05_Matrix/40_day.js) |
-| 41 | [To Be Added]   | [Code](05_Matrix/41_day.js) |
+| 39 | Search in a row-wise sorted matrix   | [Code](05_Matrix/39_day.js) |
+| 40 | Search in a sorted Matrix   | [Code](05_Matrix/40_day.js) |
+| 41 | Set Matrix Zeroes   | [Code](05_Matrix/41_day.js) |
 
 # 6. Hashing: Unlock Data Relationships (Days 42–49)
+
+| S.NO       | Problem Name                | Solution File                           |
+|------------|-----------------------------|-----------------------------------------|
+| 42 | Two Sum - Pair with Given Sum  | [Code](06_Hashing/42_day.js) |
+| 43 | [To Be Added]  | [Code](06_Hashing/43_day.js) |
+| 44 | [To Be Added]  | [Code](06_Hashing/44_day.js) |
+| 45 | [To Be Added]   | [Code](06_Hashing/45_day.js) |
+| 46 | [To Be Added]   | [Code](06_Hashing/46_day.js) |
+| 47 | [To Be Added]   | [Code](06_Hashing/47_day.js) |
+| 48 | [To Be Added]   | [Code](06_Hashing/48_day.js) |
+| 49 | [To Be Added]   | [Code](06_Hashing/49_day.js) |
+
 # 7. Two Pointer Technique: Simplify Complex Problems (Days 50–61)
 # 8. Prefix Sum: Solve Cumulative Problems (Days 62–66)
 # 9. Linked List: Manage Dynamic Data (Days 67–76)
