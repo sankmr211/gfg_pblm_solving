@@ -123,7 +123,7 @@ Document: [Here](Detailed_Syllabus.pdf)
 |------------|-----------------------------|-----------------------------------------|
 | 42 | Two Sum - Pair with Given Sum  | [Code](06_Hashing/42_day.js) |
 | 43 | Count pairs with given sum  | [Code](06_Hashing/43_day.js) |
-| 44 | [To Be Added]  | [Code](06_Hashing/44_day.js) |
+| 44 | Find All Triplets with Zero Sum  | [Code](06_Hashing/44_day.js) |
 | 45 | [To Be Added]   | [Code](06_Hashing/45_day.js) |
 | 46 | [To Be Added]   | [Code](06_Hashing/46_day.js) |
 | 47 | [To Be Added]   | [Code](06_Hashing/47_day.js) |
