@@ -127,7 +127,7 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 45 | Intersection of Two arrays with Duplicate Elements   | [Code](06_Hashing/45_day.js) |
 | 46 | Union of Arrays with Duplicates   | [Code](06_Hashing/46_day.js) |
 | 47 | Longest Consecutive Subsequence   | [Code](06_Hashing/47_day.js) |
-| 48 | [To Be Added]   | [Code](06_Hashing/48_day.js) |
+| 48 | Print Anagrams Together   | [Code](06_Hashing/48_day.js) |
 | 49 | [To Be Added]   | [Code](06_Hashing/49_day.js) |
 
 # 7. Two Pointer Technique: Simplify Complex Problems (Days 50–61)
