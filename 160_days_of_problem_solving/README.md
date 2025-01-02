@@ -128,9 +128,25 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 46 | Union of Arrays with Duplicates   | [Code](06_Hashing/46_day.js) |
 | 47 | Longest Consecutive Subsequence   | [Code](06_Hashing/47_day.js) |
 | 48 | Print Anagrams Together   | [Code](06_Hashing/48_day.js) |
-| 49 | [To Be Added]   | [Code](06_Hashing/49_day.js) |
+| 49 | Subarrays with sum K   | [Code](06_Hashing/49_day.js) |
 
 # 7. Two Pointer Technique: Simplify Complex Problems (Days 50–61)
+
+| S.NO       | Problem Name                | Solution File                           |
+|------------|-----------------------------|-----------------------------------------|
+| 50 | [To Be Added]  | [Code](07_Two%20Pointer/50_day.js) |
+| 51 | [To Be Added]  | [Code](07_Two%20Pointer/51_day.js) |
+| 52 | [To Be Added]  | [Code](07_Two%20Pointer/52_day.js) |
+| 53 | [To Be Added]  | [Code](07_Two%20Pointer/53_day.js) |
+| 54 | [To Be Added]  | [Code](07_Two%20Pointer/54_day.js) |
+| 55 | [To Be Added]  | [Code](07_Two%20Pointer/55_day.js) |
+| 56 | [To Be Added]  | [Code](07_Two%20Pointer/56_day.js) |
+| 57 | [To Be Added]  | [Code](07_Two%20Pointer/57_day.js) |
+| 58 | [To Be Added]  | [Code](07_Two%20Pointer/58_day.js) |
+| 59 | [To Be Added]  | [Code](07_Two%20Pointer/59_day.js) |
+| 60 | [To Be Added]  | [Code](07_Two%20Pointer/60_day.js) |
+| 61 | [To Be Added]  | [Code](07_Two%20Pointer/61_day.js) |
+
 # 8. Prefix Sum: Solve Cumulative Problems (Days 62–66)
 # 9. Linked List: Manage Dynamic Data (Days 67–76)
 # 10. Backtracking: Explore Recursive Problem-Solving (Days 77–79)
