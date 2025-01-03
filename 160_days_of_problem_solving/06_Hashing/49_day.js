@@ -5,16 +5,24 @@
 class Solution {
     countSubarrays(arr, k) {
         // code here
-        let res = 0
-        for (let i = 0; i < arr.length; i++) {
-            let sum = 0
-            for (let j = i; j < arr.length; j++) {
-                sum += arr[j]
-                if(sum === k)
-                    res ++
+        const prefixSums = new Map();
+        let res = 0;
+        let currSum = 0;
+
+        for (let val of arr) {
+            currSum += val;
+            if (currSum === k){
+                res++;
             }
+
+            if (prefixSums.has(currSum - k)){
+                res += prefixSums.get(currSum - k);
+            }
+
+            prefixSums.set(currSum, (prefixSums.get(currSum) || 0) + 1);
         }
-        return res
+
+        return res;
     }
 }
 

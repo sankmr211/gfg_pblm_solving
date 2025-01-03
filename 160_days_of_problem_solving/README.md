@@ -129,12 +129,12 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 47 | Longest Consecutive Subsequence   | [Code](06_Hashing/47_day.js) |
 | 48 | Print Anagrams Together   | [Code](06_Hashing/48_day.js) |
 | 49 | Subarrays with sum K   | [Code](06_Hashing/49_day.js) |
+| 50 | Count Subarrays with given XOR  | [Code](06_Hashing/50_day.js) |
 
 # 7. Two Pointer Technique: Simplify Complex Problems (Days 50–61)
 
 | S.NO       | Problem Name                | Solution File                           |
 |------------|-----------------------------|-----------------------------------------|
-| 50 | [To Be Added]  | [Code](07_Two%20Pointer/50_day.js) |
 | 51 | [To Be Added]  | [Code](07_Two%20Pointer/51_day.js) |
 | 52 | [To Be Added]  | [Code](07_Two%20Pointer/52_day.js) |
 | 53 | [To Be Added]  | [Code](07_Two%20Pointer/53_day.js) |
