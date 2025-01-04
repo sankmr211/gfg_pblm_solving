@@ -117,7 +117,7 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 40 | Search in a sorted Matrix   | [Code](05_Matrix/40_day.js) |
 | 41 | Set Matrix Zeroes   | [Code](05_Matrix/41_day.js) |
 
-# 6. Hashing: Unlock Data Relationships (Days 42–49)
+# 6. Hashing: Unlock Data Relationships (Days 42–50)
 
 | S.NO       | Problem Name                | Solution File                           |
 |------------|-----------------------------|-----------------------------------------|
@@ -131,11 +131,11 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 49 | Subarrays with sum K   | [Code](06_Hashing/49_day.js) |
 | 50 | Count Subarrays with given XOR  | [Code](06_Hashing/50_day.js) |
 
-# 7. Two Pointer Technique: Simplify Complex Problems (Days 50–61)
+# 7. Two Pointer Technique: Simplify Complex Problems (Days 51–61)
 
 | S.NO       | Problem Name                | Solution File                           |
 |------------|-----------------------------|-----------------------------------------|
-| 51 | [To Be Added]  | [Code](07_Two%20Pointer/51_day.js) |
+| 51 | Count all triplets with given sum in sorted array  | [Code](07_Two%20Pointer/51_day.js) |
 | 52 | [To Be Added]  | [Code](07_Two%20Pointer/52_day.js) |
 | 53 | [To Be Added]  | [Code](07_Two%20Pointer/53_day.js) |
 | 54 | [To Be Added]  | [Code](07_Two%20Pointer/54_day.js) |
