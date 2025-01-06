@@ -137,7 +137,7 @@ Document: [Here](Detailed_Syllabus.pdf)
 |------------|-----------------------------|-----------------------------------------|
 | 51 | Count all triplets with given sum in sorted array  | [Code](07_Two%20Pointer/51_day.js) |
 | 52 | Count Pairs whose sum is less than target  | [Code](07_Two%20Pointer/52_day.js) |
-| 53 | [To Be Added]  | [Code](07_Two%20Pointer/53_day.js) |
+| 53 | Sum Pair closest to target  | [Code](07_Two%20Pointer/53_day.js) |
 | 54 | [To Be Added]  | [Code](07_Two%20Pointer/54_day.js) |
 | 55 | [To Be Added]  | [Code](07_Two%20Pointer/55_day.js) |
 | 56 | [To Be Added]  | [Code](07_Two%20Pointer/56_day.js) |
