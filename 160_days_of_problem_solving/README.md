@@ -140,7 +140,7 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 53 | Sum Pair closest to target  | [Code](07_Two%20Pointer/53_day.js) |
 | 54 | Pair with given sum in a sorted array  | [Code](07_Two%20Pointer/54_day.js) |
 | 55 | Count the number of possible triangles  | [Code](07_Two%20Pointer/55_day.js) |
-| 56 | [To Be Added]  | [Code](07_Two%20Pointer/56_day.js) |
+| 56 | Indexes of Subarray Sum  | [Code](07_Two%20Pointer/56_day.js) |
 | 57 | [To Be Added]  | [Code](07_Two%20Pointer/57_day.js) |
 | 58 | [To Be Added]  | [Code](07_Two%20Pointer/58_day.js) |
 | 59 | [To Be Added]  | [Code](07_Two%20Pointer/59_day.js) |
