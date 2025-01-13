@@ -144,7 +144,7 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 57 | Count distinct elements in every window  | [Code](07_Two%20Pointer/57_day.js) |
 | 58 | Longest substring with distinct characters  | [Code](07_Two%20Pointer/58_day.js) |
 | 59 | Trapping Rain Water  | [Code](07_Two%20Pointer/59_day.js) |
-| 60 | [To Be Added]  | [Code](07_Two%20Pointer/60_day.js) |
+| 60 | Container With Most Water  | [Code](07_Two%20Pointer/60_day.js) |
 | 61 | [To Be Added]  | [Code](07_Two%20Pointer/61_day.js) |
 
 # 8. Prefix Sum: Solve Cumulative Problems (Days 62–66)
