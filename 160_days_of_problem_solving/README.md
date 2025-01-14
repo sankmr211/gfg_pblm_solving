@@ -131,23 +131,32 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 49 | Subarrays with sum K   | [Code](06_Hashing/49_day.js) |
 | 50 | Count Subarrays with given XOR  | [Code](06_Hashing/50_day.js) |
 
-# 7. Two Pointer Technique: Simplify Complex Problems (Days 51–61)
+# 7. Two Pointer Technique: Simplify Complex Problems (Days 51–60)
 
 | S.NO       | Problem Name                | Solution File                           |
 |------------|-----------------------------|-----------------------------------------|
-| 51 | Count all triplets with given sum in sorted array  | [Code](07_Two%20Pointer/51_day.js) |
-| 52 | Count Pairs whose sum is less than target  | [Code](07_Two%20Pointer/52_day.js) |
-| 53 | Sum Pair closest to target  | [Code](07_Two%20Pointer/53_day.js) |
-| 54 | Pair with given sum in a sorted array  | [Code](07_Two%20Pointer/54_day.js) |
-| 55 | Count the number of possible triangles  | [Code](07_Two%20Pointer/55_day.js) |
-| 56 | Indexes of Subarray Sum  | [Code](07_Two%20Pointer/56_day.js) |
-| 57 | Count distinct elements in every window  | [Code](07_Two%20Pointer/57_day.js) |
-| 58 | Longest substring with distinct characters  | [Code](07_Two%20Pointer/58_day.js) |
-| 59 | Trapping Rain Water  | [Code](07_Two%20Pointer/59_day.js) |
-| 60 | Container With Most Water  | [Code](07_Two%20Pointer/60_day.js) |
-| 61 | [To Be Added]  | [Code](07_Two%20Pointer/61_day.js) |
+| 51 | Count all triplets with given sum in sorted array  | [Code](07_Two_Pointer_Technique/51_day.js) |
+| 52 | Count Pairs whose sum is less than target  | [Code](07_Two_Pointer_Technique/52_day.js) |
+| 53 | Sum Pair closest to target  | [Code](07_Two_Pointer_Technique/53_day.js) |
+| 54 | Pair with given sum in a sorted array  | [Code](07_Two_Pointer_Technique/54_day.js) |
+| 55 | Count the number of possible triangles  | [Code](07_Two_Pointer_Technique/55_day.js) |
+| 56 | Indexes of Subarray Sum  | [Code](07_Two_Pointer_Technique/56_day.js) |
+| 57 | Count distinct elements in every window  | [Code](07_Two_Pointer_Technique/57_day.js) |
+| 58 | Longest substring with distinct characters  | [Code](07_Two_Pointer_Technique/58_day.js) |
+| 59 | Trapping Rain Water  | [Code](07_Two_Pointer_Technique/59_day.js) |
+| 60 | Container With Most Water  | [Code](07_Two_Pointer_Technique/60_day.js) |
 
-# 8. Prefix Sum: Solve Cumulative Problems (Days 62–66)
+# 8. Prefix Sum: Solve Cumulative Problems (Days 61–66)
+| S.NO       | Problem Name                | Solution File                           |
+|------------|-----------------------------|-----------------------------------------|
+| 61 | Equilibrium Point  | [Code](08_Prefix_Sum/61_day.js) |
+| 62 | [To Be Added]  | [Code](08_Prefix_Sum/62_day.js) |
+| 63 | [To Be Added]  | [Code](08_Prefix_Sum/63_day.js) |
+| 64 | [To Be Added]  | [Code](08_Prefix_Sum/64_day.js) |
+| 65 | [To Be Added]  | [Code](08_Prefix_Sum/65_day.js) |
+| 66 | [To Be Added]  | [Code](08_Prefix_Sum/66_day.js) |
+
+
 # 9. Linked List: Manage Dynamic Data (Days 67–76)
 # 10. Backtracking: Explore Recursive Problem-Solving (Days 77–79)
 # 11. Trees: Build and Traverse Hierarchical Data (Days 80–92)
