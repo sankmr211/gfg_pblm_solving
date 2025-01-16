@@ -7,18 +7,18 @@ class Solution {
         // code here
         let mp = new Map();
 
-        let preSum = 0;
+        let presum = 0;
         let res = 0;
         for (let i = 0; i < arr.length; i++) {    
-            preSum += (arr[i] === 0) ? -1 : 1;
-            if (preSum === 0){
+            presum += (arr[i] === 0) ? -1 : 1;
+            if (presum === 0){
                 res = i + 1;
             }
     
-            if (mp.has(preSum)){
-                res = Math.max(res, i - mp.get(preSum));
+            if (mp.has(presum)){
+                res = Math.max(res, i - mp.get(presum));
             }else{
-                mp.set(preSum, i);
+                mp.set(presum, i);
             }
         }
     
