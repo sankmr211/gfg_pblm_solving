@@ -151,7 +151,7 @@ Document: [Here](Detailed_Syllabus.pdf)
 |------------|-----------------------------|-----------------------------------------|
 | 61 | Equilibrium Point  | [Code](08_Prefix_Sum/61_day.js) |
 | 62 | Largest subarray of 0's and 1's  | [Code](08_Prefix_Sum/62_day.js) |
-| 63 | [To Be Added]  | [Code](08_Prefix_Sum/63_day.js) |
+| 63 | Product array puzzle  | [Code](08_Prefix_Sum/63_day.js) |
 | 64 | [To Be Added]  | [Code](08_Prefix_Sum/64_day.js) |
 | 65 | [To Be Added]  | [Code](08_Prefix_Sum/65_day.js) |
 | 66 | [To Be Added]  | [Code](08_Prefix_Sum/66_day.js) |
