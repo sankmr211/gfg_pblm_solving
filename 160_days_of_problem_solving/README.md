@@ -146,18 +146,20 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 59 | Trapping Rain Water  | [Code](07_Two_Pointer_Technique/59_day.js) |
 | 60 | Container With Most Water  | [Code](07_Two_Pointer_Technique/60_day.js) |
 
-# 8. Prefix Sum: Solve Cumulative Problems (Days 61–66)
+# 8. Prefix Sum: Solve Cumulative Problems (Days 61–64)
 | S.NO       | Problem Name                | Solution File                           |
 |------------|-----------------------------|-----------------------------------------|
 | 61 | Equilibrium Point  | [Code](08_Prefix_Sum/61_day.js) |
-| 62 | Largest subarray of 0's and 1's  | [Code](08_Prefix_Sum/62_day.js) |
-| 63 | Product array puzzle  | [Code](08_Prefix_Sum/63_day.js) |
-| 64 | [To Be Added]  | [Code](08_Prefix_Sum/64_day.js) |
+| 62 | Longest Subarray with Sum K  | [Code](08_Prefix_Sum/62_day.js) |
+| 63 | Largest subarray of 0's and 1's  | [Code](08_Prefix_Sum/63_day.js) |
+| 64 | Product array puzzle  | [Code](08_Prefix_Sum/64_day.js) |
+
+# 9. Linked List: Manage Dynamic Data (Days 65–76)
+| S.NO       | Problem Name                | Solution File                           |
+|------------|-----------------------------|-----------------------------------------|
 | 65 | [To Be Added]  | [Code](08_Prefix_Sum/65_day.js) |
 | 66 | [To Be Added]  | [Code](08_Prefix_Sum/66_day.js) |
 
-
-# 9. Linked List: Manage Dynamic Data (Days 67–76)
 # 10. Backtracking: Explore Recursive Problem-Solving (Days 77–79)
 # 11. Trees: Build and Traverse Hierarchical Data (Days 80–92)
 # 12. Heap: Manage Prioritized Data (Days 93–96)
