@@ -147,6 +147,7 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 60 | Container With Most Water  | [Code](07_Two_Pointer_Technique/60_day.js) |
 
 # 8. Prefix Sum: Solve Cumulative Problems (Days 61–64)
+
 | S.NO       | Problem Name                | Solution File                           |
 |------------|-----------------------------|-----------------------------------------|
 | 61 | Equilibrium Point  | [Code](08_Prefix_Sum/61_day.js) |
@@ -155,13 +156,48 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 64 | Product array puzzle  | [Code](08_Prefix_Sum/64_day.js) |
 
 # 9. Linked List: Manage Dynamic Data (Days 65–76)
+
 | S.NO       | Problem Name                | Solution File                           |
 |------------|-----------------------------|-----------------------------------------|
-| 65 | [To Be Added]  | [Code](08_Prefix_Sum/65_day.js) |
-| 66 | [To Be Added]  | [Code](08_Prefix_Sum/66_day.js) |
+| 65 | Reverse a linked list  | [Code](09_Linked_List/65_day.js) |
+| 66 | Rotate a Linked List  | [Code](09_Linked_List/66_day.js) |
+| 67 | [To Be Added]  | [Code](09_Linked_List/67_day.js) |
+| 68 | [To Be Added]  | [Code](09_Linked_List/68_day.js) |
+| 69 | [To Be Added]  | [Code](09_Linked_List/69_day.js) |
+| 70 | [To Be Added]  | [Code](09_Linked_List/70_day.js) |
+| 71 | [To Be Added]  | [Code](09_Linked_List/71_day.js) |
+| 72 | [To Be Added]  | [Code](09_Linked_List/72_day.js) |
+| 73 | [To Be Added]  | [Code](09_Linked_List/73_day.js) |
+| 74 | [To Be Added]  | [Code](09_Linked_List/74_day.js) |
+| 75 | [To Be Added]  | [Code](09_Linked_List/75_day.js) |
+| 76 | [To Be Added]  | [Code](09_Linked_List/76_day.js) |
 
 # 10. Backtracking: Explore Recursive Problem-Solving (Days 77–79)
+
+| S.NO       | Problem Name                | Solution File                           |
+|------------|-----------------------------|-----------------------------------------|
+| 77 | [To Be Added]  | [Code](10_Backtracking/77_day.js) |
+| 78 | [To Be Added]  | [Code](10_Backtracking/78_day.js) |
+| 79 | [To Be Added]  | [Code](10_Backtracking/79_day.js) |
+
 # 11. Trees: Build and Traverse Hierarchical Data (Days 80–92)
+
+| S.NO       | Problem Name                | Solution File                           |
+|------------|-----------------------------|-----------------------------------------|
+| 80 | [To Be Added]  | [Code](11_Trees/80_day.js) |
+| 81 | [To Be Added]  | [Code](11_Trees/81_day.js) |
+| 82 | [To Be Added]  | [Code](11_Trees/82_day.js) |
+| 83 | [To Be Added]  | [Code](11_Trees/83_day.js) |
+| 84 | [To Be Added]  | [Code](11_Trees/84_day.js) |
+| 85 | [To Be Added]  | [Code](11_Trees/85_day.js) |
+| 86 | [To Be Added]  | [Code](11_Trees/86_day.js) |
+| 87 | [To Be Added]  | [Code](11_Trees/87_day.js) |
+| 88 | [To Be Added]  | [Code](11_Trees/88_day.js) |
+| 89 | [To Be Added]  | [Code](11_Trees/89_day.js) |
+| 80 | [To Be Added]  | [Code](11_Trees/90_day.js) |
+| 91 | [To Be Added]  | [Code](11_Trees/91_day.js) |
+| 92 | [To Be Added]  | [Code](11_Trees/92_day.js) |
+
 # 12. Heap: Manage Prioritized Data (Days 93–96)
 # 13. Stack: Simplify Operations (Days 97–105)
 # 14. Queue and Deque: FIFO Operations (Days 106–107)

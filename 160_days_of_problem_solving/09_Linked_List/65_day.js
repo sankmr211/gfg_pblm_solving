@@ -12,7 +12,7 @@ function createobj(params) {
     }
     let arr = params.split(' ').map(x => parseInt(x));
     return { data: arr[0] , next: frameobj(arr,1)}
- }
+}
 
 class Solution {
     reverseList(head) {
