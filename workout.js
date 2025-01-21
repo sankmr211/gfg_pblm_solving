@@ -17,3 +17,35 @@ for (let index = 0; index < arr.length; index++) {
 }
 
 console.log(small,second_small);
+
+
+// const content = `// Name: 
+// // Link: 
+
+
+// class Solution {
+
+// }
+
+// let obj = new Solution();
+// const arr = [];
+// let ans = obj;
+// console.log(ans);`
+
+// File creation in Node.js
+// const fs = require('fs');
+
+
+// for (let i = 93; i < 181; i++) {
+//     const fileName = `${i}_day.js pending`;
+//     fs.writeFile(fileName, content, (err) => {
+//         if (err) {
+//             console.error('Error writing file:', err);
+//         } else {
+//             console.log(`File '${fileName}' has been created successfully!`);
+//         }
+//     });    
+    
+// }
+
+
