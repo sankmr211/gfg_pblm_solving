@@ -161,8 +161,8 @@ Document: [Here](Detailed_Syllabus.pdf)
 |------------|-----------------------------|-----------------------------------------|
 | 65 | Reverse a linked list  | [Code](09_Linked_List/65_day.js) |
 | 66 | Rotate a Linked List  | [Code](09_Linked_List/66_day.js) |
-| 67 | [To Be Added]  | [Code](09_Linked_List/67_day.js) |
-| 68 | [To Be Added]  | [Code](09_Linked_List/68_day.js) |
+| 67 | Merge two sorted linked lists  | [Code](09_Linked_List/67_day.js) |
+| 68 | Linked List Group Reverse  | [Code](09_Linked_List/68_day.js) |
 | 69 | [To Be Added]  | [Code](09_Linked_List/69_day.js) |
 | 70 | [To Be Added]  | [Code](09_Linked_List/70_day.js) |
 | 71 | [To Be Added]  | [Code](09_Linked_List/71_day.js) |
