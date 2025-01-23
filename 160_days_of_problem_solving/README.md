@@ -164,7 +164,7 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 67 | Merge two sorted linked lists  | [Code](09_Linked_List/67_day.js) |
 | 68 | Linked List Group Reverse  | [Code](09_Linked_List/68_day.js) |
 | 69 | Add Number Linked Lists  | [Code](09_Linked_List/69_day.js) |
-| 70 | [To Be Added]  | [Code](09_Linked_List/70_day.js) |
+| 70 | Clone List with Next and Random  | [Code](09_Linked_List/70_day.js) |
 | 71 | [To Be Added]  | [Code](09_Linked_List/71_day.js) |
 | 72 | [To Be Added]  | [Code](09_Linked_List/72_day.js) |
 | 73 | [To Be Added]  | [Code](09_Linked_List/73_day.js) |
