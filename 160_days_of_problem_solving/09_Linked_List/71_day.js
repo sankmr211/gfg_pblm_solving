@@ -10,6 +10,7 @@ class Node {
 }
 
 class Solution {
+    // Function to check if the linked list has a loop.
     detectLoop(head) {
         // your code here
         const st = new Set();
@@ -20,7 +21,6 @@ class Solution {
             }
 
             st.add(head);
-
             head = head.next;
         }
         return false;
