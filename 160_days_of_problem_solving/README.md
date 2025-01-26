@@ -167,7 +167,7 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 70 | Clone List with Next and Random  | [Code](09_Linked_List/70_day.js) |
 | 71 | Detect Loop in linked list  | [Code](09_Linked_List/71_day.js) |
 | 72 | Find the first node of loop in linked list  | [Code](09_Linked_List/72_day.js) |
-| 73 | [To Be Added]  | [Code](09_Linked_List/73_day.js) |
+| 73 | Remove loop in Linked List  | [Code](09_Linked_List/73_day.js) |
 | 74 | [To Be Added]  | [Code](09_Linked_List/74_day.js) |
 | 75 | [To Be Added]  | [Code](09_Linked_List/75_day.js) |
 | 76 | [To Be Added]  | [Code](09_Linked_List/76_day.js) |
