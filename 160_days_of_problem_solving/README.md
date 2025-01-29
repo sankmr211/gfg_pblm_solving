@@ -155,7 +155,7 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 63 | Largest subarray of 0's and 1's  | [Code](08_Prefix_Sum/63_day.js) |
 | 64 | Product array puzzle  | [Code](08_Prefix_Sum/64_day.js) |
 
-# 9. Linked List: Manage Dynamic Data (Days 65–76)
+# 9. Linked List: Manage Dynamic Data (Days 65–73)
 
 | S.NO       | Problem Name                | Solution File                           |
 |------------|-----------------------------|-----------------------------------------|
@@ -168,14 +168,15 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 71 | Detect Loop in linked list  | [Code](09_Linked_List/71_day.js) |
 | 72 | Find the first node of loop in linked list  | [Code](09_Linked_List/72_day.js) |
 | 73 | Remove loop in Linked List  | [Code](09_Linked_List/73_day.js) |
-| 74 | [To Be Added]  | [Code](09_Linked_List/74_day.js) |
-| 75 | [To Be Added]  | [Code](09_Linked_List/75_day.js) |
-| 76 | [To Be Added]  | [Code](09_Linked_List/76_day.js) |
 
-# 10. Backtracking: Explore Recursive Problem-Solving (Days 77–79)
+
+# 10. Backtracking: Explore Recursive Problem-Solving (Days 74–79)
 
 | S.NO       | Problem Name                | Solution File                           |
 |------------|-----------------------------|-----------------------------------------|
+| 74 | Permutations of a String  | [Code](10_Backtracking/74_day.js) |
+| 75 | Implement Pow  | [Code](10_Backtracking/75_day.js) |
+| 76 | [To Be Added]  | [Code](10_Backtracking/76_day.js) |
 | 77 | [To Be Added]  | [Code](10_Backtracking/77_day.js) |
 | 78 | [To Be Added]  | [Code](10_Backtracking/78_day.js) |
 | 79 | [To Be Added]  | [Code](10_Backtracking/79_day.js) |
