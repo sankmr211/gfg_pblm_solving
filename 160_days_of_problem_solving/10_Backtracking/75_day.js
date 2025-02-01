@@ -1,31 +1,33 @@
 
-// Name: Implement Pow
-// Link: https://www.geeksforgeeks.org/batch/gfg-160-problems/track/recursion-and-backtracking-gfg-160/problem/powx-n
+// Name: Permutations of a String
+// Link: https://www.geeksforgeeks.org/batch/gfg-160-problems/track/recursion-and-backtracking-gfg-160/problem/permutations-of-a-given-string2041
 
 class Solution {
-    power(b, e) {
-        // Code here
-        if (e == 0){
-            return 1;
+    findPermutation(s) {
+        // code here
+        s = s.split("").sort();
+        let res = new Set();
+        this.recurPermute(0, s, res);
+        return Array.from(res).sort();
+    }
+
+    recurPermute(index, s, ans) {
+
+        if (index === s.length) {
+            ans.add(s.join(""));
+            return;
         }
 
-        if (e < 0){
-            return 1 / this.power(b, -e);
+        for (let i = index; i < s.length; i++) {
+            [s[index], s[i]] = [s[i], s[index]];
+            this.recurPermute(index + 1, s, ans);
+            [s[index], s[i]] = [s[i], s[index]];
         }
-
-        let temp = this.power(b, Math.floor(e / 2));
-
-        if (e % 2 == 0){
-            return temp * temp;
-        }
-        else{
-            return b * temp * temp;
-        }
-        
     }
 }
 
+
 let obj = new Solution();
-const b = 0.55000, e = 3;
-let ans = obj.power(b,e)
+const s = "ABC";
+let ans = obj.findPermutation(s)
 console.log(ans);
