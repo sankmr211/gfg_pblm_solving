@@ -49,3 +49,18 @@ console.log(small,second_small);
 // }
 
 
+// let content = ''
+
+// for (let i = 93; i <= 160; i++) {
+
+
+//     content += `| ${i} | [To Be Added]  | [Code](TO_BE_ADD/${i}_day.js) |\n`
+    
+// }
+//     fs.writeFile('redme.txt', content, (err) => {
+//         if (err) {
+//             console.error('Error writing file:', err);
+//         } else {
+//             console.log(`File 'redme.txt' has been created successfully!`);
+//         }
+//     }); 

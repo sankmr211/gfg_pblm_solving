@@ -186,7 +186,7 @@ Document: [Here](Detailed_Syllabus.pdf)
 
 | S.NO       | Problem Name                | Solution File                           |
 |------------|-----------------------------|-----------------------------------------|
-| 80 | [To Be Added]  | [Code](11_Trees/80_day.js) |
+| 80 | Level order traversal  | [Code](11_Trees/80_day.js) |
 | 81 | [To Be Added]  | [Code](11_Trees/81_day.js) |
 | 82 | [To Be Added]  | [Code](11_Trees/82_day.js) |
 | 83 | [To Be Added]  | [Code](11_Trees/83_day.js) |
@@ -201,6 +201,78 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 92 | [To Be Added]  | [Code](11_Trees/92_day.js) |
 
 # 12. Heap: Manage Prioritized Data (Days 93–96)
+
+| S.NO       | Problem Name                | Solution File                           |
+|------------|-----------------------------|-----------------------------------------|
+| 93 | [To Be Added]  | [Code](12_Heap/93_day.js) |
+| 94 | [To Be Added]  | [Code](12_Heap/94_day.js) |
+| 95 | [To Be Added]  | [Code](12_Heap/95_day.js) |
+| 96 | [To Be Added]  | [Code](12_Heap/96_day.js) |
+| 97 | [To Be Added]  | [Code](TO_BE_ADD/97_day.js) |
+| 98 | [To Be Added]  | [Code](TO_BE_ADD/98_day.js) |
+| 99 | [To Be Added]  | [Code](TO_BE_ADD/99_day.js) |
+| 100 | [To Be Added]  | [Code](TO_BE_ADD/100_day.js) |
+| 101 | [To Be Added]  | [Code](TO_BE_ADD/101_day.js) |
+| 102 | [To Be Added]  | [Code](TO_BE_ADD/102_day.js) |
+| 103 | [To Be Added]  | [Code](TO_BE_ADD/103_day.js) |
+| 104 | [To Be Added]  | [Code](TO_BE_ADD/104_day.js) |
+| 105 | [To Be Added]  | [Code](TO_BE_ADD/105_day.js) |
+| 106 | [To Be Added]  | [Code](TO_BE_ADD/106_day.js) |
+| 107 | [To Be Added]  | [Code](TO_BE_ADD/107_day.js) |
+| 108 | [To Be Added]  | [Code](TO_BE_ADD/108_day.js) |
+| 109 | [To Be Added]  | [Code](TO_BE_ADD/109_day.js) |
+| 110 | [To Be Added]  | [Code](TO_BE_ADD/110_day.js) |
+| 111 | [To Be Added]  | [Code](TO_BE_ADD/111_day.js) |
+| 112 | [To Be Added]  | [Code](TO_BE_ADD/112_day.js) |
+| 113 | [To Be Added]  | [Code](TO_BE_ADD/113_day.js) |
+| 114 | [To Be Added]  | [Code](TO_BE_ADD/114_day.js) |
+| 115 | [To Be Added]  | [Code](TO_BE_ADD/115_day.js) |
+| 116 | [To Be Added]  | [Code](TO_BE_ADD/116_day.js) |
+| 117 | [To Be Added]  | [Code](TO_BE_ADD/117_day.js) |
+| 118 | [To Be Added]  | [Code](TO_BE_ADD/118_day.js) |
+| 119 | [To Be Added]  | [Code](TO_BE_ADD/119_day.js) |
+| 120 | [To Be Added]  | [Code](TO_BE_ADD/120_day.js) |
+| 121 | [To Be Added]  | [Code](TO_BE_ADD/121_day.js) |
+| 122 | [To Be Added]  | [Code](TO_BE_ADD/122_day.js) |
+| 123 | [To Be Added]  | [Code](TO_BE_ADD/123_day.js) |
+| 124 | [To Be Added]  | [Code](TO_BE_ADD/124_day.js) |
+| 125 | [To Be Added]  | [Code](TO_BE_ADD/125_day.js) |
+| 126 | [To Be Added]  | [Code](TO_BE_ADD/126_day.js) |
+| 127 | [To Be Added]  | [Code](TO_BE_ADD/127_day.js) |
+| 128 | [To Be Added]  | [Code](TO_BE_ADD/128_day.js) |
+| 129 | [To Be Added]  | [Code](TO_BE_ADD/129_day.js) |
+| 130 | [To Be Added]  | [Code](TO_BE_ADD/130_day.js) |
+| 131 | [To Be Added]  | [Code](TO_BE_ADD/131_day.js) |
+| 132 | [To Be Added]  | [Code](TO_BE_ADD/132_day.js) |
+| 133 | [To Be Added]  | [Code](TO_BE_ADD/133_day.js) |
+| 134 | [To Be Added]  | [Code](TO_BE_ADD/134_day.js) |
+| 135 | [To Be Added]  | [Code](TO_BE_ADD/135_day.js) |
+| 136 | [To Be Added]  | [Code](TO_BE_ADD/136_day.js) |
+| 137 | [To Be Added]  | [Code](TO_BE_ADD/137_day.js) |
+| 138 | [To Be Added]  | [Code](TO_BE_ADD/138_day.js) |
+| 139 | [To Be Added]  | [Code](TO_BE_ADD/139_day.js) |
+| 140 | [To Be Added]  | [Code](TO_BE_ADD/140_day.js) |
+| 141 | [To Be Added]  | [Code](TO_BE_ADD/141_day.js) |
+| 142 | [To Be Added]  | [Code](TO_BE_ADD/142_day.js) |
+| 143 | [To Be Added]  | [Code](TO_BE_ADD/143_day.js) |
+| 144 | [To Be Added]  | [Code](TO_BE_ADD/144_day.js) |
+| 145 | [To Be Added]  | [Code](TO_BE_ADD/145_day.js) |
+| 146 | [To Be Added]  | [Code](TO_BE_ADD/146_day.js) |
+| 147 | [To Be Added]  | [Code](TO_BE_ADD/147_day.js) |
+| 148 | [To Be Added]  | [Code](TO_BE_ADD/148_day.js) |
+| 149 | [To Be Added]  | [Code](TO_BE_ADD/149_day.js) |
+| 150 | [To Be Added]  | [Code](TO_BE_ADD/150_day.js) |
+| 151 | [To Be Added]  | [Code](TO_BE_ADD/151_day.js) |
+| 152 | [To Be Added]  | [Code](TO_BE_ADD/152_day.js) |
+| 153 | [To Be Added]  | [Code](TO_BE_ADD/153_day.js) |
+| 154 | [To Be Added]  | [Code](TO_BE_ADD/154_day.js) |
+| 155 | [To Be Added]  | [Code](TO_BE_ADD/155_day.js) |
+| 156 | [To Be Added]  | [Code](TO_BE_ADD/156_day.js) |
+| 157 | [To Be Added]  | [Code](TO_BE_ADD/157_day.js) |
+| 158 | [To Be Added]  | [Code](TO_BE_ADD/158_day.js) |
+| 159 | [To Be Added]  | [Code](TO_BE_ADD/159_day.js) |
+| 160 | [To Be Added]  | [Code](TO_BE_ADD/160_day.js) |
+
 # 13. Stack: Simplify Operations (Days 97–105)
 # 14. Queue and Deque: FIFO Operations (Days 106–107)
 # 15. Dynamic Programming (DP): Optimize Complex Problems (Days 108–133)
