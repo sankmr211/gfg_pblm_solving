@@ -187,7 +187,7 @@ Document: [Here](Detailed_Syllabus.pdf)
 | S.NO       | Problem Name                | Solution File                           |
 |------------|-----------------------------|-----------------------------------------|
 | 80 | Level order traversal  | [Code](11_Trees/80_day.js) |
-| 81 | [To Be Added]  | [Code](11_Trees/81_day.js) |
+| 81 | Height of Binary Tree  | [Code](11_Trees/81_day.js) |
 | 82 | [To Be Added]  | [Code](11_Trees/82_day.js) |
 | 83 | [To Be Added]  | [Code](11_Trees/83_day.js) |
 | 84 | [To Be Added]  | [Code](11_Trees/84_day.js) |
