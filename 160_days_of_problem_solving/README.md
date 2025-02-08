@@ -188,11 +188,11 @@ Document: [Here](Detailed_Syllabus.pdf)
 |------------|-----------------------------|-----------------------------------------|
 | 80 | Level order traversal  | [Code](11_Trees/80_day.js) |
 | 81 | Height of Binary Tree  | [Code](11_Trees/81_day.js) |
-| 82 | [To Be Added]  | [Code](11_Trees/82_day.js) |
-| 83 | [To Be Added]  | [Code](11_Trees/83_day.js) |
-| 84 | [To Be Added]  | [Code](11_Trees/84_day.js) |
-| 85 | [To Be Added]  | [Code](11_Trees/85_day.js) |
-| 86 | [To Be Added]  | [Code](11_Trees/86_day.js) |
+| 82 | Diameter of a Binary Tree  | [Code](11_Trees/82_day.js) |
+| 83 | Mirror Tree  | [Code](11_Trees/83_day.js) |
+| 84 | Construct Tree from Inorder & Preorder  | [Code](11_Trees/84_day.js) |
+| 85 | Inorder Traversal  | [Code](11_Trees/85_day.js) |
+| 86 | Tree Boundary Traversal  | [Code](11_Trees/86_day.js) |
 | 87 | [To Be Added]  | [Code](11_Trees/87_day.js) |
 | 88 | [To Be Added]  | [Code](11_Trees/88_day.js) |
 | 89 | [To Be Added]  | [Code](11_Trees/89_day.js) |
