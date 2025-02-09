@@ -193,7 +193,7 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 84 | Construct Tree from Inorder & Preorder  | [Code](11_Trees/84_day.js) |
 | 85 | Inorder Traversal  | [Code](11_Trees/85_day.js) |
 | 86 | Tree Boundary Traversal  | [Code](11_Trees/86_day.js) |
-| 87 | [To Be Added]  | [Code](11_Trees/87_day.js) |
+| 87 | Maximum path sum from any node  | [Code](11_Trees/87_day.js) |
 | 88 | [To Be Added]  | [Code](11_Trees/88_day.js) |
 | 89 | [To Be Added]  | [Code](11_Trees/89_day.js) |
 | 80 | [To Be Added]  | [Code](11_Trees/90_day.js) |
