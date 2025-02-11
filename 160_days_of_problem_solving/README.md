@@ -194,8 +194,8 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 85 | Inorder Traversal  | [Code](11_Trees/85_day.js) |
 | 86 | Tree Boundary Traversal  | [Code](11_Trees/86_day.js) |
 | 87 | Maximum path sum from any node  | [Code](11_Trees/87_day.js) |
-| 88 | [To Be Added]  | [Code](11_Trees/88_day.js) |
-| 89 | [To Be Added]  | [Code](11_Trees/89_day.js) |
+| 88 | K Sum Paths  | [Code](11_Trees/88_day.js) |
+| 89 | Check for BST  | [Code](11_Trees/89_day.js) |
 | 80 | [To Be Added]  | [Code](11_Trees/90_day.js) |
 | 91 | [To Be Added]  | [Code](11_Trees/91_day.js) |
 | 92 | [To Be Added]  | [Code](11_Trees/92_day.js) |
