@@ -182,7 +182,7 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 79 | Word Search  | [Code](10_Backtracking/79_day.js) |
 
 
-# 11. Trees: Build and Traverse Hierarchical Data (Days 80–92)
+# 11. Trees: Build and Traverse Hierarchical Data (Days 80–93)
 
 | S.NO       | Problem Name                | Solution File                           |
 |------------|-----------------------------|-----------------------------------------|
@@ -199,12 +199,12 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 80 | k-th Smallest in BST  | [Code](11_Trees/90_day.js) |
 | 91 | Pair Sum in BST  | [Code](11_Trees/91_day.js) |
 | 92 | Fixing Two nodes of a BST  | [Code](11_Trees/92_day.js) |
+| 93 | Lowest Common Ancestor in a BST  | [Code](12_Heap/93_day.js) |
 
-# 12. Heap: Manage Prioritized Data (Days 93–96)
+# 12. Heap: Manage Prioritized Data (Days 94–96)
 
 | S.NO       | Problem Name                | Solution File                           |
 |------------|-----------------------------|-----------------------------------------|
-| 93 | [To Be Added]  | [Code](12_Heap/93_day.js) |
 | 94 | [To Be Added]  | [Code](12_Heap/94_day.js) |
 | 95 | [To Be Added]  | [Code](12_Heap/95_day.js) |
 | 96 | [To Be Added]  | [Code](12_Heap/96_day.js) |
