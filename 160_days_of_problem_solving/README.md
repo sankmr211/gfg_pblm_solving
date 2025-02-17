@@ -202,16 +202,19 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 93 | Lowest Common Ancestor in a BST  | [Code](12_Heap/93_day.js) |
 | 94 | Serialize and deserialize a binary tree  | [Code](12_Heap/94_day.js) |
 
-# 12. Heap: Manage Prioritized Data (Days 95–96)
+# 12. Heap: Manage Prioritized Data (Days 95–100)
 
 | S.NO       | Problem Name                | Solution File                           |
 |------------|-----------------------------|-----------------------------------------|
-| 95 | [To Be Added]  | [Code](12_Heap/95_day.js) |
+| 95 | k largest elements  | [Code](12_Heap/95_day.js) |
 | 96 | [To Be Added]  | [Code](12_Heap/96_day.js) |
 | 97 | [To Be Added]  | [Code](TO_BE_ADD/97_day.js) |
 | 98 | [To Be Added]  | [Code](TO_BE_ADD/98_day.js) |
 | 99 | [To Be Added]  | [Code](TO_BE_ADD/99_day.js) |
 | 100 | [To Be Added]  | [Code](TO_BE_ADD/100_day.js) |
+
+# 13. Stack: Simplify Operations (Days 100–105)
+
 | 101 | [To Be Added]  | [Code](TO_BE_ADD/101_day.js) |
 | 102 | [To Be Added]  | [Code](TO_BE_ADD/102_day.js) |
 | 103 | [To Be Added]  | [Code](TO_BE_ADD/103_day.js) |
@@ -273,7 +276,6 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 159 | [To Be Added]  | [Code](TO_BE_ADD/159_day.js) |
 | 160 | [To Be Added]  | [Code](TO_BE_ADD/160_day.js) |
 
-# 13. Stack: Simplify Operations (Days 97–105)
 # 14. Queue and Deque: FIFO Operations (Days 106–107)
 # 15. Dynamic Programming (DP): Optimize Complex Problems (Days 108–133)
 # 16. Greedy: Make Optimal Choices (Days 134–137)
