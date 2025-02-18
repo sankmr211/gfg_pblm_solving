@@ -207,7 +207,7 @@ Document: [Here](Detailed_Syllabus.pdf)
 | S.NO       | Problem Name                | Solution File                           |
 |------------|-----------------------------|-----------------------------------------|
 | 95 | k largest elements  | [Code](12_Heap/95_day.js) |
-| 96 | [To Be Added]  | [Code](12_Heap/96_day.js) |
+| 96 | K Closest Points to Origin  | [Code](12_Heap/96_day.js) |
 | 97 | [To Be Added]  | [Code](TO_BE_ADD/97_day.js) |
 | 98 | [To Be Added]  | [Code](TO_BE_ADD/98_day.js) |
 | 99 | [To Be Added]  | [Code](TO_BE_ADD/99_day.js) |
