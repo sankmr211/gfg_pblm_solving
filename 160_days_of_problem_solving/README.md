@@ -199,8 +199,8 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 80 | k-th Smallest in BST  | [Code](11_Trees/90_day.js) |
 | 91 | Pair Sum in BST  | [Code](11_Trees/91_day.js) |
 | 92 | Fixing Two nodes of a BST  | [Code](11_Trees/92_day.js) |
-| 93 | Lowest Common Ancestor in a BST  | [Code](12_Heap/93_day.js) |
-| 94 | Serialize and deserialize a binary tree  | [Code](12_Heap/94_day.js) |
+| 93 | Lowest Common Ancestor in a BST  | [Code](11_Trees/93_day.js) |
+| 94 | Serialize and deserialize a binary tree  | [Code](11_Trees/94_day.js) |
 
 # 12. Heap: Manage Prioritized Data (Days 95–100)
 
@@ -208,10 +208,10 @@ Document: [Here](Detailed_Syllabus.pdf)
 |------------|-----------------------------|-----------------------------------------|
 | 95 | k largest elements  | [Code](12_Heap/95_day.js) |
 | 96 | K Closest Points to Origin  | [Code](12_Heap/96_day.js) |
-| 97 | [To Be Added]  | [Code](TO_BE_ADD/97_day.js) |
-| 98 | [To Be Added]  | [Code](TO_BE_ADD/98_day.js) |
-| 99 | [To Be Added]  | [Code](TO_BE_ADD/99_day.js) |
-| 100 | [To Be Added]  | [Code](TO_BE_ADD/100_day.js) |
+| 97 | Merge K sorted linked lists  | [Code](12_Heap/97_day.js) |
+| 98 | [To Be Added]  | [Code](12_Heap/98_day.js) |
+| 99 | [To Be Added]  | [Code](12_Heap/99_day.js) |
+| 100 | [To Be Added]  | [Code](12_Heap/100_day.js) |
 
 # 13. Stack: Simplify Operations (Days 100–105)
 
