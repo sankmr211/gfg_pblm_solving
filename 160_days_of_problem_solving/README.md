@@ -209,7 +209,7 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 95 | k largest elements  | [Code](12_Heap/95_day.js) |
 | 96 | K Closest Points to Origin  | [Code](12_Heap/96_day.js) |
 | 97 | Merge K sorted linked lists  | [Code](12_Heap/97_day.js) |
-| 98 | [To Be Added]  | [Code](12_Heap/98_day.js) |
+| 98 | Find median in a stream  | [Code](12_Heap/98_day.js) |
 | 99 | [To Be Added]  | [Code](12_Heap/99_day.js) |
 | 100 | [To Be Added]  | [Code](12_Heap/100_day.js) |
 
