@@ -202,7 +202,7 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 93 | Lowest Common Ancestor in a BST  | [Code](11_Trees/93_day.js) |
 | 94 | Serialize and deserialize a binary tree  | [Code](11_Trees/94_day.js) |
 
-# 12. Heap: Manage Prioritized Data (Days 95–100)
+# 12. Heap: Manage Prioritized Data (Days 95–98)
 
 | S.NO       | Problem Name                | Solution File                           |
 |------------|-----------------------------|-----------------------------------------|
@@ -210,16 +210,19 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 96 | K Closest Points to Origin  | [Code](12_Heap/96_day.js) |
 | 97 | Merge K sorted linked lists  | [Code](12_Heap/97_day.js) |
 | 98 | Find median in a stream  | [Code](12_Heap/98_day.js) |
+
+# 13. Stack: Simplify Operations (Days 99–105)
+
 | 99 | [To Be Added]  | [Code](12_Heap/99_day.js) |
 | 100 | [To Be Added]  | [Code](12_Heap/100_day.js) |
-
-# 13. Stack: Simplify Operations (Days 100–105)
-
 | 101 | [To Be Added]  | [Code](TO_BE_ADD/101_day.js) |
 | 102 | [To Be Added]  | [Code](TO_BE_ADD/102_day.js) |
 | 103 | [To Be Added]  | [Code](TO_BE_ADD/103_day.js) |
 | 104 | [To Be Added]  | [Code](TO_BE_ADD/104_day.js) |
 | 105 | [To Be Added]  | [Code](TO_BE_ADD/105_day.js) |
+
+# 14. Queue and Deque: FIFO Operations (Days 106–107)
+
 | 106 | [To Be Added]  | [Code](TO_BE_ADD/106_day.js) |
 | 107 | [To Be Added]  | [Code](TO_BE_ADD/107_day.js) |
 | 108 | [To Be Added]  | [Code](TO_BE_ADD/108_day.js) |
@@ -276,7 +279,6 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 159 | [To Be Added]  | [Code](TO_BE_ADD/159_day.js) |
 | 160 | [To Be Added]  | [Code](TO_BE_ADD/160_day.js) |
 
-# 14. Queue and Deque: FIFO Operations (Days 106–107)
 # 15. Dynamic Programming (DP): Optimize Complex Problems (Days 108–133)
 # 16. Greedy: Make Optimal Choices (Days 134–137)
 # 17. Graphs: Explore Connectivity and Paths (Days 138–152)
