@@ -213,8 +213,8 @@ Document: [Here](Detailed_Syllabus.pdf)
 
 # 13. Stack: Simplify Operations (Days 99–105)
 
-| 99 | [To Be Added]  | [Code](12_Heap/99_day.js) |
-| 100 | [To Be Added]  | [Code](12_Heap/100_day.js) |
+| 99 | Parenthesis Checker  | [Code](13_Stack/99_day.js) |
+| 100 | Longest valid Parentheses  | [Code](13_Stack/100_day.js) |
 | 101 | [To Be Added]  | [Code](TO_BE_ADD/101_day.js) |
 | 102 | [To Be Added]  | [Code](TO_BE_ADD/102_day.js) |
 | 103 | [To Be Added]  | [Code](TO_BE_ADD/103_day.js) |
