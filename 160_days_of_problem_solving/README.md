@@ -215,7 +215,7 @@ Document: [Here](Detailed_Syllabus.pdf)
 
 | 99 | Parenthesis Checker  | [Code](13_Stack/99_day.js) |
 | 100 | Longest valid Parentheses  | [Code](13_Stack/100_day.js) |
-| 101 | [To Be Added]  | [Code](TO_BE_ADD/101_day.js) |
+| 101 | Next Greater Element  | [Code](TO_BE_ADD/101_day.js) |
 | 102 | [To Be Added]  | [Code](TO_BE_ADD/102_day.js) |
 | 103 | [To Be Added]  | [Code](TO_BE_ADD/103_day.js) |
 | 104 | [To Be Added]  | [Code](TO_BE_ADD/104_day.js) |
