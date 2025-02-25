@@ -217,7 +217,7 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 100 | Longest valid Parentheses  | [Code](13_Stack/100_day.js) |
 | 101 | Next Greater Element  | [Code](13_Stack/101_day.js) |
 | 102 | Stock span problem  | [Code](13_Stack/102_day.js) |
-| 103 | [To Be Added]  | [Code](TO_BE_ADD/103_day.js) |
+| 103 | Histogram Max Rectangular Area  | [Code](13_Stack/103_day.js) |
 | 104 | [To Be Added]  | [Code](TO_BE_ADD/104_day.js) |
 | 105 | [To Be Added]  | [Code](TO_BE_ADD/105_day.js) |
 
