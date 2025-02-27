@@ -219,7 +219,7 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 102 | Stock span problem  | [Code](13_Stack/102_day.js) |
 | 103 | Histogram Max Rectangular Area  | [Code](13_Stack/103_day.js) |
 | 104 | Maximum of minimum for every window size  | [Code](13_Stack/104_day.js) |
-| 105 | [To Be Added]  | [Code](TO_BE_ADD/105_day.js) |
+| 105 | Get Min from Stack  | [Code](TO_BE_ADD/105_day.js) |
 
 # 14. Queue and Deque: FIFO Operations (Days 106–107)
 
