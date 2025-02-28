@@ -211,7 +211,7 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 97 | Merge K sorted linked lists  | [Code](12_Heap/97_day.js) |
 | 98 | Find median in a stream  | [Code](12_Heap/98_day.js) |
 
-# 13. Stack: Simplify Operations (Days 99–105)
+# 13. Stack: Simplify Operations (Days 99–106)
 
 | 99 | Parenthesis Checker  | [Code](13_Stack/99_day.js) |
 | 100 | Longest valid Parentheses  | [Code](13_Stack/100_day.js) |
@@ -219,11 +219,11 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 102 | Stock span problem  | [Code](13_Stack/102_day.js) |
 | 103 | Histogram Max Rectangular Area  | [Code](13_Stack/103_day.js) |
 | 104 | Maximum of minimum for every window size  | [Code](13_Stack/104_day.js) |
-| 105 | Get Min from Stack  | [Code](TO_BE_ADD/105_day.js) |
+| 105 | Get Min from Stack  | [Code](13_Stack/105_day.js) |
+| 106 | [To Be Added]  | [Code](13_Stack/106_day.js) |
 
-# 14. Queue and Deque: FIFO Operations (Days 106–107)
+# 14. Queue and Deque: FIFO Operations (Days 107–108)
 
-| 106 | [To Be Added]  | [Code](TO_BE_ADD/106_day.js) |
 | 107 | [To Be Added]  | [Code](TO_BE_ADD/107_day.js) |
 | 108 | [To Be Added]  | [Code](TO_BE_ADD/108_day.js) |
 | 109 | [To Be Added]  | [Code](TO_BE_ADD/109_day.js) |
