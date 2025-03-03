@@ -213,6 +213,8 @@ Document: [Here](Detailed_Syllabus.pdf)
 
 # 13. Stack: Simplify Operations (Days 99–106)
 
+| S.NO       | Problem Name                | Solution File                           |
+|------------|-----------------------------|-----------------------------------------|
 | 99 | Parenthesis Checker  | [Code](13_Stack/99_day.js) |
 | 100 | Longest valid Parentheses  | [Code](13_Stack/100_day.js) |
 | 101 | Next Greater Element  | [Code](13_Stack/101_day.js) |
@@ -220,11 +222,13 @@ Document: [Here](Detailed_Syllabus.pdf)
 | 103 | Histogram Max Rectangular Area  | [Code](13_Stack/103_day.js) |
 | 104 | Maximum of minimum for every window size  | [Code](13_Stack/104_day.js) |
 | 105 | Get Min from Stack  | [Code](13_Stack/105_day.js) |
-| 106 | [To Be Added]  | [Code](13_Stack/106_day.js) |
+| 106 | Evaluation of Postfix Expression  | [Code](13_Stack/106_day.js) |
+| 107 | [To Be Added]  | [Code](13_Stack/107_day.js) |
 
 # 14. Queue and Deque: FIFO Operations (Days 107–108)
 
-| 107 | [To Be Added]  | [Code](TO_BE_ADD/107_day.js) |
+| S.NO       | Problem Name                | Solution File                           |
+|------------|-----------------------------|-----------------------------------------|
 | 108 | [To Be Added]  | [Code](TO_BE_ADD/108_day.js) |
 | 109 | [To Be Added]  | [Code](TO_BE_ADD/109_day.js) |
 | 110 | [To Be Added]  | [Code](TO_BE_ADD/110_day.js) |
